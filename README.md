@@ -2,6 +2,8 @@
 
 一個精心設計的單頁網頁 (Single Page Application)，展示個人基本資訊並提供即時更新的數位時鐘與日期顯示。
 
+🔗 **[線上預覽 / Live Demo](https://kevinlin13.github.io/hw1/)**
+
 ## 🌟 特色功能
 
 - **精美視覺設計 (Premium Aesthetics)**
